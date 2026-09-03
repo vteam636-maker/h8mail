@@ -113,3 +113,6 @@ keysbackup.ini
 file1.bin
 *.txt
 test.json
+
+.venv/
+__pycache__/
